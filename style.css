@@ -28,8 +28,6 @@
 .nav-list{
     gap: 30px;
     font-size: 14px;
-    color: wheat;
-    background-color: #ffc599;
 }
 .nav-list, a:hover{
 background-color: transparent;
